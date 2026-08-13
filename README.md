@@ -38,7 +38,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/ThanyatornSathiannet/WebBikeShop_Project
 cd project-name
 npm install
 npm run dev
